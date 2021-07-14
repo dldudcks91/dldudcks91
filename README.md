@@ -6,6 +6,6 @@ LYC의 git-hub에 오신것을 환영합니다.
 
 /baseball_homepage - 홈페이지 정보
 
-/baseball_analytics - 데이터분석 및 크롤링 정보
+/baseball_analys - 데이터분석 및 크롤링 정보
 
 #데이터분석 #한국프로야구 #파이썬 #크롤링 #홈페이지 #자동화 
