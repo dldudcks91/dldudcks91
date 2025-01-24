@@ -9,7 +9,7 @@ LYC의 git-hub에 오신것을 환영합니다.
 
    /dldudcks91 - KBO경기 기대승률에 대한 추론 pdf파일
 
-   /baseball_homepage - 홈페이지 관련 정보 url: www.lyc-baseball.online
+   /baseball_homepage - 야구/코인 관련 홈페이지 (url: www.lyc-baseball.online)
 
    /baseball_analysis - 데이터분석 및 크롤링 정보
 
