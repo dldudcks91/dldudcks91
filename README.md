@@ -15,7 +15,7 @@ LYC의 git-hub에 오신것을 환영합니다.
 
 2. UPBIT
    
-   UPBIT에서 제공하는 API데이터를 받아와 코인정보를 표출
+   UPBIT에서 제공하는 API데이터를 받아와 코인별 현재 상황을 대시보드화
 
    /upbit_project - UPBIT API 코드
 
